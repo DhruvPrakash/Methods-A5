@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"A",
+				"AbstractBaseUser"
+			],
+			[
+				"pro",
+				"providers	property"
+			],
+			[
+				"Cour",
+				"CourseService	alias"
+			],
+			[
+				"Cou",
+				"CourseService	alias"
+			],
+			[
+				"cons",
+				"constructor	keyword"
+			],
+			[
+				"Com",
+				"Component	alias"
+			],
+			[
+				"page",
+				"pagesCrawled"
+			],
+			[
+				"bs3-but",
+				"bs3-button:success	bs3-button-success"
+			],
+			[
+				"bs3-col",
+				"bs3-col:4	bs3-col-4"
+			],
+			[
+				"bs3-pa",
+				"bs3-panel	bs3-panel"
+			],
+			[
+				"bs3-b",
+				"bs3-button:success	bs3-button-success"
+			],
+			[
+				"bs3-ro",
+				"bs3-row	bs3-row"
+			],
+			[
+				"bs3-p",
+				"bs3-panel	bs3-panel"
+			],
+			[
+				"bs3-na",
+				"bs3-navbar:inverse	bs3-navbar-inverse"
+			],
+			[
+				"bs3-li",
+				"bs3-list-group	bs3-list-group"
+			],
+			[
+				"count",
+				"count_string"
+			],
+			[
+				"min_",
+				"min_distance"
+			],
+			[
+				"error_",
+				"error_train"
+			],
+			[
+				"The",
+				"Theta2_grad"
+			],
+			[
+				"deltaS",
+				"deltaSum2"
+			],
+			[
+				"delta",
+				"deltaSum2"
+			],
+			[
+				"sigmoi",
+				"sigmoidGradient"
+			],
+			[
+				"delt",
+				"deltaSum1"
+			],
+			[
+				"reg",
+				"regularized_terms"
+			],
+			[
+				"Theta2",
+				"Theta2_for_reg"
+			],
+			[
+				"all",
+				"all_theta"
+			],
+			[
+				"num",
+				"num_labels"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/TypeScript/TypeScript.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/TypeScript/TypeScript.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: Octave"
+			],
+			[
+				"package c",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dhruvprakash/angular-demo/angular-seed/node_modules/bower/CHANGELOG.md",
+		"/Users/dhruvprakash/angular-demo/angular-seed/package.json",
+		"/Users/dhruvprakash/angular-demo/angular-seed/.bowerrc",
+		"/Users/dhruvprakash/Angular2-demo-projects/angular2-seed/app/app.component.js.map",
+		"/Users/dhruvprakash/python-workspace/project_crawler/app/Util.py",
+		"/Users/dhruvprakash/python-workspace/project_crawler/app/Tests.py",
+		"/Users/dhruvprakash/django-projects/flying_pussy_foot/flying_pussy_foot/settings.py",
+		"/Users/dhruvprakash/python-workspace/project_crawler/app/Page.py",
+		"/Users/dhruvprakash/experiment-prototype/prototypes/fileUpload/static/js/file-upload-ctrl.js",
+		"/Users/dhruvprakash/experiment-prototype/prototypes/templates/index.html",
+		"/Users/dhruvprakash/python-workspace/project_crawler/app/Crawler.py",
+		"/Users/dhruvprakash/Python tutorial/google-python-exercises/basic/list1.py",
+		"/Users/dhruvprakash/Python tutorial/google-python-exercises/basic/Cat.py",
+		"/Users/dhruvprakash/python-workspace/prototype1/home.html",
+		"/Users/dhruvprakash/Python tutorial/google-python-exercises/basic/wordcount.py",
+		"/Users/dhruvprakash/python-workspace/project_crawler/app/simple-test-2.py",
+		"/Users/dhruvprakash/python-workspace/project_crawler/app/inheritance-trick-test.py",
+		"/Users/dhruvprakash/Python tutorial/google-python-exercises/hello.py",
+		"/Users/dhruvprakash/Python tutorial/google-python-exercises/test.py",
+		"/Users/dhruvprakash/Python tutorial/google-python-exercises/next-test.py",
+		"/Users/dhruvprakash/Python tutorial/google-python-exercises/basic/string1.py",
+		"/Users/dhruvprakash/Downloads/hw-05-template.tex",
+		"/Users/dhruvprakash/COW/README.md",
+		"/Users/dhruvprakash/Documents/Machine Learning/machine-learning-ex7/ex7/recoverData.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex7/ex7/findClosestCentroids.m",
+		"/Users/dhruvprakash/Downloads/hw04.tex",
+		"/Users/dhruvprakash/Downloads/hw-02-template.tex",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex6/ex6/visualizeBoundary.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex6/ex6/ex6.m",
+		"/Users/dhruvprakash/Documents/Machine Learning/machine-learning-ex5/ex5/linearRegCostFunction.m",
+		"/Users/dhruvprakash/Documents/Machine Learning/machine-learning-ex3/ex3/ex3_nn.m",
+		"/Users/dhruvprakash/webdevtest/coursera-test/site/index.html",
+		"/Users/dhruvprakash/test_site/index.html",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex5/ex5/trainLinearReg.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex5/ex5/polyFeatures.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex5/ex5/learningCurve.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex5/ex5/linearRegCostFunction.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex4/ex4/nnCostFunction.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex3/ex3/displayData.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex3/ex3/ex3.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex2/ex2/costFunction.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex3/ex3/lrCostFunction.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex3/ex3/oneVsAll.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex3/ex3/predictOneVsAll.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex3/ex3/predict.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex3/ex3/sigmoid.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex2/ex2/sigmoid.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex2/ex2/predict.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex2/ex2/mapFeature.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex2/ex2/plotData.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/ex1.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/ex1_multi.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/ex1data1.txt",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/ex1data2.txt",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/featureNormalize.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/gradientDescent.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/gradientDescentMulti.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/computeCostMulti.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/normalEqn.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/plotData.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/submit.m",
+		"/Users/dhruvprakash/Downloads/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/dhruvprakash/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/dhruvprakash/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
